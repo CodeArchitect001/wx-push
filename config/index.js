@@ -6,5 +6,5 @@ module.exports = {
 
   key: "201c93c2e2b34bdeecdbf9f5265eb84e",
   city: "曼谷",
-  first_date: "2025-4-8",
+  first_date: "2025-04-08",
 };
