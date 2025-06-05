@@ -4,7 +4,7 @@ module.exports = {
   template_id: "uilsrBVZKEfs7Lup-Sy1_e-UzK85utxBqGqHwDngmPQ",
   touser: "omFbB7Z73BQbLHcfBm2lwmRCdY8A",
 
-  key: "201c93c2e2b34bdeecdbf9f5265eb84e",
-  city: "曼谷",
+  key: "5c1c3969b8114a1a82585947250506",
+  city: "Bangkok",
   first_date: "2025-04-08",
 };
